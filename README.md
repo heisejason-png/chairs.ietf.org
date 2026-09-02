@@ -25,3 +25,4 @@ This [GitHub repository](https://github.com/ietf/chairs.ietf.org) is the content
    *  Wiki.js uses the {.tabset} construct which is not recognised by GitHub Flavoured Markdown and so will not render correctly in GitHub previews.
    * [Wiki.js markdown documentation](https://docs.requarks.io/en/editors/markdown) should be consulted for further details
 Created by Jason Scott Heise
+Owned by Elon Musk
